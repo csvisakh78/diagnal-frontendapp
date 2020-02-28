@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/diagnal-frontendapp/static/css/main.d1b05096.chunk.css",
-    "main.js": "/diagnal-frontendapp/static/js/main.38788fe8.chunk.js",
-    "main.js.map": "/diagnal-frontendapp/static/js/main.38788fe8.chunk.js.map",
+    "main.js": "/diagnal-frontendapp/static/js/main.a4c7b54f.chunk.js",
+    "main.js.map": "/diagnal-frontendapp/static/js/main.a4c7b54f.chunk.js.map",
     "runtime-main.js": "/diagnal-frontendapp/static/js/runtime-main.16bb483a.js",
     "runtime-main.js.map": "/diagnal-frontendapp/static/js/runtime-main.16bb483a.js.map",
     "static/js/2.aa75ae7a.chunk.js": "/diagnal-frontendapp/static/js/2.aa75ae7a.chunk.js",
     "static/js/2.aa75ae7a.chunk.js.map": "/diagnal-frontendapp/static/js/2.aa75ae7a.chunk.js.map",
     "index.html": "/diagnal-frontendapp/index.html",
-    "precache-manifest.810f9dca3507bf5ec83ee467aa631388.js": "/diagnal-frontendapp/precache-manifest.810f9dca3507bf5ec83ee467aa631388.js",
+    "precache-manifest.7bd7a9de5ab8ef987468636d679e80b6.js": "/diagnal-frontendapp/precache-manifest.7bd7a9de5ab8ef987468636d679e80b6.js",
     "service-worker.js": "/diagnal-frontendapp/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/diagnal-frontendapp/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.aa75ae7a.chunk.js.LICENSE.txt": "/diagnal-frontendapp/static/js/2.aa75ae7a.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.16bb483a.js",
     "static/js/2.aa75ae7a.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.38788fe8.chunk.js"
+    "static/js/main.a4c7b54f.chunk.js"
   ]
 }
