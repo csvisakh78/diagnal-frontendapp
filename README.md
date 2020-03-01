@@ -1,4 +1,4 @@
-#Diagnal Frontend App
+#Diagnal-Frontend-App
 <b>This is an test app</b>
 
 To Configure App<br/>
