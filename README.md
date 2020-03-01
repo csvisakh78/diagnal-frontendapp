@@ -1,5 +1,5 @@
 # Diagnal Frontend Service
-<b>This is an test app</b>
+<b>Reactjs App for testp</b>
 
 To Configure App<br/>
 => npm install<br/>
