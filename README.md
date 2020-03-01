@@ -1,7 +1,7 @@
 # Diagnal Frontend Service
 <b>Reactjs App for testp</b>
 
-To Configure App<br/>
+To Configure App in local machine<br/>
 => npm install<br/>
 => npm start<br/>
 
