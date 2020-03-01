@@ -1,0 +1,2 @@
+export const SEARCH_DETAILS = 'SEARCH_DETAILS';
+export type SEARCH_DETAILS = typeof SEARCH_DETAILS;
